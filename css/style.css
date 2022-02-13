@@ -66,3 +66,36 @@ margin-right: 15px;
 .login button:nth-child(1) {
     margin-right: 5px;
 }
+
+
+
+.js-table {
+    height: 100vh;
+}
+
+.js-table form {
+    margin: 50px auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+
+}
+
+.js-table label {
+    margin: 10px;
+}
+
+.js-table input {
+    padding: 18px;
+    width: 300px;
+    border-radius: 10px;
+    border: none;
+}
+
+.js-table button {
+    padding: 10px;
+    border-radius: 12px;
+    border: 2px solid red;
+    width: 100px;
+}
